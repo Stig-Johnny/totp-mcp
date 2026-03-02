@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.26.0",
+    "@modelcontextprotocol/sdk": "^1.27.1",
     "otplib": "^13.3.0"
   }
 }
