@@ -6,6 +6,6 @@
   "type": "commonjs",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.27.1",
-    "otplib": "^13.3.0"
+    "otplib": "^13.4.0"
   }
 }
